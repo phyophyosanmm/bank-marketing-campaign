@@ -66,8 +66,3 @@ The workflow includes **data cleaning, feature engineering, exploratory data ana
 
 ---
 
-## 👩‍💻 Author
-**Phyo Phyo San**  
-Master of Data Science (APU, Malaysia)  
-GitHub: [phyophyosanmm](https://github.com/phyophyosanmm)  
-LinkedIn: [linkedin.com/in/phyophyosan](https://linkedin.com/in/phyophyosan)
